@@ -5,4 +5,9 @@ line added after first commit
 4th line added in branch1
 5th line added in branch12
 6th line added in branch12
+<<<<<<< HEAD
 7th line added in branch12
+=======
+7th line added in branch2
+8th line added in branch2
+>>>>>>> branch2
